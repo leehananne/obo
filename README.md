@@ -15,7 +15,9 @@ The interactive website includes 3D models of our prototype, resources that our 
 
 ## References
 **Designed using Spectral by HTML5 UP** 
+
 html5up.net | @ajlkn 
+
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 AJ | aj@lkn.io | @ajlkn
