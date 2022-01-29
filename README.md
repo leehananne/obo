@@ -3,7 +3,7 @@ _**FOR**: Project-ID - A Better Singapore Challenge (October 2021 Semester)_
 
 
 ### About The Project
-This is part of our solution to solving our driving question of **how can we develop alternative agriculutral techniques that could circumvent Singapore's limited land use** in order to grow our food supply?
+Project OBO is our solution to solving our driving question of **how can we develop alternative agriculutral techniques that could circumvent Singapore's limited land use** in order to grow our food supply?
 
 We decided to tackle this as the vegetables Singapore currently produces locally is less than 5 percent of what we consume, and most of our food is imported - therefore highlighting a lack of food security. This has been further exacerbated by Singapore's problem of land scarcity and potential unexpected cuts of supply routes, such as those that happened during COVID-19.
 
