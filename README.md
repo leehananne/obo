@@ -1,12 +1,20 @@
-# Virtual Exhibition Website for Project OBO
-_**FOR**: Project-ID - A Better Singapore Challenge (October 2021 Semester)_
+# Virtual Exhibition Website for PROJECT OBO
+
 To view the website, click [here](https://leehananne.github.io/obo/).
 
+### About
+**FOR**: Project-ID - A Better Singapore Challenge (October 2021 Semester)
 
-### About The Project
-Project OBO is our solution to solving our driving question of **how can we develop alternative agriculutral techniques that could circumvent Singapore's limited land use** in order to grow our food supply?
+Project-ID is a module under Ngee Ann Polytechnic's School of Interdisciplinary Studies. This module seeks to tackle problems such as the economic impacts of COVID-19, access to basic needs & resources,  an ageing society and increasing amounts of waste through an integration of knowledge and skills of different disciplines.
 
-We decided to tackle this as the vegetables Singapore currently produces locally is less than 5 percent of what we consume, and most of our food is imported - therefore highlighting a lack of food security. This has been further exacerbated by Singapore's problem of land scarcity and potential unexpected cuts of supply routes, such as those that happened during COVID-19.
+Therefore, each team of students are of different disciplines - my team comprises of 2 students studying Engineering Science (including myself), 2 students studying Early Childhood Development and Education and 1 student studying Film Sound and Video.
+
+### The Project
+PROJECT OBO is our solution to solving our driving question of 
+
+> How can we develop alternative agriculutral techniques that could circumvent Singapore's limited land use, in order to grow our food supply?
+
+We decided to tackle this as the amount of vegetables Singapore currently produces locally is less than 5 percent of what we consume, with most of our food being imported. This highlights a lack of food security which has been further exacerbated by Singapore's problem of land scarcity and potential unexpected cuts of supply routes, such as those that happened during COVID-19.
 
 You can view our showcase [here](https://sites.google.com/np.edu.sg/proidclasssitet01/project-obo?authuser=0).
 
