@@ -1,5 +1,5 @@
 # Virtual Exhibition Website for Project OBO
-_ **FOR:** Project-ID - A Better Singapore Challenge (October 2021 Semester)_
+_  **FOR:** Project-ID - A Better Singapore Challenge (October 2021 Semester) _
 
 
 ### About The Project
