@@ -1,37 +1,24 @@
 # Virtual Exhibition Website for Project OBO
-_Project-ID - A Better Singapore Challenge (October 2021 Semester)_
+_ **FOR:** Project-ID - A Better Singapore Challenge (October 2021 Semester)_
 
-Spectral by HTML5 UP
-html5up.net | @ajlkn
+
+### About The Project
+This is part of our solution to solving our driving question of **how can we develop alternative agriculutral techniques that could circumvent Singapore's limited land use** in order to grow our food supply?
+
+We decided to tackle this as the vegetables Singapore currently produces locally is less than 5 percent of what we consume, and most of our food is imported - therefore highlighting a lack of food security. This has been further exacerbated by Singapore's problem of land scarcity and potential unexpected cuts of supply routes, such as those that happened during COVID-19.
+
+You can view our showcase [here].(https://sites.google.com/np.edu.sg/proidclasssitet01/project-obo?authuser=0)
+
+### The Website
+The interactive website includes 3D models of our prototype, resources that our stakeholders may need, as well as information regarding the functionality of our proposed designs to address potential concerns that were highlighted during our validating process.
+
+
+## References
+**Designed using Spectral by HTML5 UP** 
+html5up.net | @ajlkn 
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
-
-- It's built with components from my Responsive Tools project.
-
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
-
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
-
-  (* = still entirely optional if you prefer vanilla CSS :)
-
-- A ton of other stuff.
-
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+AJ | aj@lkn.io | @ajlkn
 
 
 Credits:
